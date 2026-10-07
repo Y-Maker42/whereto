@@ -1,0 +1,9 @@
+{
+  "_help": "Optional keys for WhereTo. Paste a key between the quotes, save, then reload WhereTo. Leave empty to turn a feature off.",
+  "_ticketmasterKey": "Free. Shows events. https://developer.ticketmaster.com/",
+  "ticketmasterKey": "",
+  "_microsoftClientId": "Free. Lets you connect Outlook/Hotmail so bookings are read from your confirmation emails. See 'Connect email setup.txt'.",
+  "microsoftClientId": "",
+  "_googleClientId": "Free. Lets you connect Gmail so bookings are read from your confirmation emails. See 'Connect email setup.txt'.",
+  "googleClientId": "472765752091-3plq6bslmrhvsqkler5pg7193u792910.apps.googleusercontent.com"
+}

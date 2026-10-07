@@ -1,0 +1,1 @@
+/*! WhereTo (c) 2026 Y-Maker42. All rights reserved. Proprietary - no copying, modifying or re-hosting without written permission. Open-source parts: third-party-notices.txt */const r=""+new URL("pdf.worker.min-yatZIOMy.mjs",import.meta.url).href;export{r as default};

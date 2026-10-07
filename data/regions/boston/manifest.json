@@ -1,0 +1,50 @@
+{
+  "regionId": "boston",
+  "generatedAt": "2026-10-02T17:31:57.933Z",
+  "schemaVersion": 1,
+  "cellSizeDeg": 0.1,
+  "cells": {
+    "423_-712": 2850,
+    "423_-711": 4402,
+    "422_-711": 754,
+    "424_-712": 513,
+    "424_-711": 688,
+    "422_-712": 525,
+    "423_-710": 130,
+    "424_-710": 98,
+    "422_-710": 233,
+    "424_-713": 2,
+    "422_-713": 5,
+    "432_-684": 1,
+    "423_-713": 1,
+    "422_-715": 1,
+    "421_-712": 1
+  },
+  "placeCount": 10204,
+  "attribution": [
+    {
+      "source": "osm",
+      "text": "© OpenStreetMap contributors",
+      "license": "ODbL-1.0",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "source": "wikidata",
+      "text": "Wikidata",
+      "license": "CC0-1.0",
+      "url": "https://www.wikidata.org/"
+    },
+    {
+      "source": "overture",
+      "text": "Overture Maps Foundation (Places)",
+      "license": "CDLA-Permissive-2.0",
+      "url": "https://overturemaps.org/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "text": "Photos: Wikimedia Commons (individual credits shown with each photo)",
+      "license": "various free licences",
+      "url": "https://commons.wikimedia.org/"
+    }
+  ]
+}
