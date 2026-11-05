@@ -1,0 +1,5 @@
+OCR files used by WhereTo to read text from image-only PDFs and screenshots, on the user's device.
+- worker.min.js: tesseract.js 6.0.1, Apache-2.0 (https://github.com/naptha/tesseract.js)
+- tesseract-core-*.wasm(.js): tesseract.js-core 6.1.2, Apache-2.0 (Tesseract OCR, Apache-2.0)
+- eng.traineddata.gz: tessdata_best (integer) English model via @tesseract.js-data/eng, Apache-2.0
+Copied from node_modules by hand (see apps/web/scripts/copy-ocr.ps1 to refresh).

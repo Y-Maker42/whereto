@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Signing in</title>
+<style>body{font:15px system-ui,sans-serif;display:grid;place-items:center;height:100vh;margin:0;background:#f6f7f9;color:#333}</style>
+<script>
+  // Microsoft / Google send you back here after sign-in; hand the result to the app.
+  var q = location.search ? "&" + location.search.slice(1) : "";
+  location.replace(location.pathname.replace(/oauth\.html$/, "") + "?oauth=1" + q + location.hash);
+</script></head>
+<body><p>Signing you in to WhereTo…</p></body>
+</html>

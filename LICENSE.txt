@@ -1,0 +1,12 @@
+Copyright (c) 2026 Y-Maker42 (WhereTo). All rights reserved.
+
+WhereTo - its source code, compiled code, design, name and logo - is proprietary. No permission is
+granted to copy, modify, distribute, sublicense, host or create derivative works of it, in whole or
+in part, without prior written permission from the copyright holder. Viewing and using the app at
+its official address for personal trip planning is permitted.
+
+Third-party parts keep their own licences:
+ - Open-source software included in the app: see third-party-notices.txt.
+ - Place and map data: OpenStreetMap contributors (ODbL), Overture Maps (CDLA-Permissive-2.0),
+   GeoNames (CC BY 4.0), Wikidata (CC0), Natural Earth (public domain), OpenFreeMap / OpenMapTiles.
+   These data remain available under their own licences.

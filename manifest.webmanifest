@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "WhereTo - things to do & trip planner",
+  "short_name": "WhereTo",
+  "description": "Find things to do anywhere in the world, plan trips and get directions from where you are.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "categories": ["travel", "navigation", "lifestyle"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Explore nearby", "short_name": "Explore", "url": "./?mode=explore", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] },
+    { "name": "Plan a trip", "short_name": "Plan", "url": "./?mode=plan", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] }
+  ]
+}
